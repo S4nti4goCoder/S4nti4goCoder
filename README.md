@@ -54,3 +54,10 @@ I have developed applications using HTML, CSS, JavaScript, Angular, React, PHP, 
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=S4nti4goCoder&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/S4nti4goCoder-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=S4nti4goCoder&theme=material-palenight)](https://github.com/S4nti4goCoder-48)
+</div>
