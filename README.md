@@ -4,11 +4,9 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
-I'm Santiago Quintero, software developer with frontend and backend experience. I specialize in creating web applications and management systems, with a focus on efficiency and Model-View-Controller (MVC) architecture.
+I'm Santiago Quintero, a software developer with experience in both frontend and backend development. I specialize in creating web applications and management systems, with a strong focus on efficiency and the Model-View-Controller (MVC) architecture.
 
-I am a Technologist in Information Systems Analysis and Development, which has allowed me to acquire solid knowledge in programming, databases and software design. I am passionate about learning new technologies and improving my skills in every project I work on.
-
-I have developed applications using HTML, CSS, JavaScript, Angular, React, PHP, MySQL and Node.js, applying good practices and development methodologies.
+I hold a degree as a Technologist in Information Systems Analysis and Development, which has provided me with a solid foundation in programming, databases, and software design. I am passionate about learning new technologies and continuously improving my skills through every project I undertake.
 
 - 🔭 I’m currently studying:
 	- Mobile Application
